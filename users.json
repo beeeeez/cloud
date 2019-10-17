@@ -1,0 +1,35 @@
+[
+    {
+        "UserID":1,
+        "Username":"buddyboy",
+        "info": {
+                "Fullname":"Jimmy Jammy",
+                "Title":"Chef",
+                "Company":"Jimmy's Bistro",
+                "Earnings":40000
+        }
+    },
+    {
+        "UserID":2,
+        "Username":"flimmyflam",
+        "info": {
+                "Fullname":"Winny Whammy",
+                "Title":"Accountant",
+                "Company":"Hertz",
+                "Earnings":60000
+        }
+    },
+    {
+        "UserID":3,
+        "Username":"punnypam",
+        "info": {
+                "Fullname":"Candy Whamby",
+                "Title":"Controller",
+                "Company":"Jambos",
+                "Earnings":80000
+        }
+    }
+
+
+
+]
